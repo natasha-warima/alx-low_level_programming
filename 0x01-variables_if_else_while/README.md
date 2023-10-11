@@ -1,2 +1,2 @@
 #!/bin/bash
-description of repo
+Description of Repo

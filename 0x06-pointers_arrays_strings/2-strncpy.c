@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- * strncpy - copies string upto n bytes
+ * _strncpy - copies string upto n bytes
  * @dest: original string
  * @src: string being copied
  * @n: most n bytes that are copied

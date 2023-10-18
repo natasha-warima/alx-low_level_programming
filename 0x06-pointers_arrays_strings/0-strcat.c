@@ -3,7 +3,7 @@
  * _strcat - chains and interlinks two strings
  * @dest: string being appended
  * @src: string inputted to dest string
- * Return: void
+ * Return: dest
  */
 char *_strcat(char *dest, char *src)
 {
